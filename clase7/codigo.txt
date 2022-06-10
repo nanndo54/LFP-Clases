@@ -1,0 +1,9 @@
+2.4
+
+1:
+numero
+punto
+numero
+
+2:
+numero_double
