@@ -101,7 +101,6 @@ tokens = {
   "tk_operador_igualacion": "==",
   "tk_operador_asignacion": "=",
   "tk_operador_resto": "%",
-  "tk_numero_double": AFDNumeroDouble
   "tk_numero": AFDNumero
 }
 
